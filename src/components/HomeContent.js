@@ -1,13 +1,12 @@
 import React from "react";
 import styled from "styled-components";
-import map from "../assets/map.png";
+import map from "../assets/map.PNG";
 import pin from "../assets/pin.png";
 import { Link } from "react-router-dom";
 import { useState } from "react";
 
 
 const Map = styled.img`
-    
     width: 75rem;
     height: 43.75rem
     flex-grow: 0;
@@ -17,8 +16,6 @@ const Map = styled.img`
 const MapPin = styled.div`
     position: relative;
 `;
-
-
 
 const Haeundae = styled.img`
     position: absolute;
