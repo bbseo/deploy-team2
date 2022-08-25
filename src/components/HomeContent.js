@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import map from "../assets/map.png"
-import pin from "../assets/pin.png"
+import map from "../assets/map.png";
+import pin from "../assets/pin.png";
 import { Link } from "react-router-dom";
 import { useState } from "react";
 
